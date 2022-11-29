@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Reddit Posts List</string>
+
+    <string name="message_not_loaded">Oops..There is no posts to show.</string>
+    <string name="label_loading">Loading..</string>
+    <string name="label_description">Description</string>
+    <string name="label_cancel">Cancel</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="place_holder_author">Posted by %s</string>
+</resources>
